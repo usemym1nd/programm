@@ -1,0 +1,11 @@
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.csprojAssemblyReference.cache
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\bin\Debug\test_Elizarov_Ruslan.exe.config
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\bin\Debug\test_Elizarov_Ruslan.exe
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\bin\Debug\test_Elizarov_Ruslan.pdb
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.autorization.resources
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.Properties.Resources.resources
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.registration.resources
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.csproj.GenerateResource.cache
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.csproj.CoreCompileInputs.cache
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.exe
+D:\test_Elizarov_Ruslan\test_Elizarov_Ruslan\test_Elizarov_Ruslan\obj\Debug\test_Elizarov_Ruslan.pdb
